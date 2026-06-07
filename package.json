@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with macOS window style and terminal/hacking theme.",
+  "main": "generate-favicon.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjotah/DEVJOTA.git"
+  },
+  "keywords": [],
+  "author": "DevJota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjotah/DEVJOTA/issues"
+  },
+  "homepage": "https://devjotah.github.io/DEVJOTA/",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "lucide": "^0.575.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
